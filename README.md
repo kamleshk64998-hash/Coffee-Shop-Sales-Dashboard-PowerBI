@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Dashboard — Power BI
+<h1 align="center">☕ Coffee Shop Sales Dashboard — Power BI</h1>
 
 <p align="center">
   <strong>Interactive Coffee Shop Sales Analysis Dashboard</strong>
